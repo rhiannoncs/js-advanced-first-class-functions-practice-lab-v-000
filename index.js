@@ -27,7 +27,7 @@ const driversByName = function (drivers) {
   return drivers.slice().sort(nameSorter);
 };
 
-const reduceDriverRevenue = function () {
+const reduceDriverRevenue = function (0, ) {
   
 };
 
